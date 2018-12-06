@@ -1,0 +1,10 @@
+Overall task - Provide Data mining and Machine learning (ML&DM) pipeline
+
+
+Some tips:
+1) Provide data analysis with data/features understanding. Data statistics. Feature types
+2) Find out which features need to be transformed in some way: categorical -> one-hot(binary) vector, Text features -> number variables
+3) Find out which features are correlated and try to combine it using Principal Component Analysis tool from sklearn
+4) Setup and train KNearestNeighbors and LinearRegression 
+5) Use crossvalidation to compare these two models
+6) Dont forget about plots!
